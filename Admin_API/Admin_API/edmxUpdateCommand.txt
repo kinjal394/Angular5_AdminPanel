@@ -1,0 +1,7 @@
+Scaffold-DbContext "Data Source=DESKTOP-BRR56Q3\SQLEXPRESS1;Initial Catalog=AdminAng5DB;Persist Security Info=True;User ID=sa;Password=k8469882853" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models  -F
+
+
+
+
+
+
