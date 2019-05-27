@@ -1,7 +1,7 @@
 # Angular5 AdminPanel
 
 # SQL Database
- paste dbScript.sql file to your ssms and run it. it will create tables to your database.
+ paste dbScript.sql file to your ssms and run it. It will create tables to your database.
 
 # API Project
   -Change connectionstring according to your environment(appsetting.json,AdminAPI\DataServices\dalc.cs,AdminDemoContext.cs)
@@ -11,5 +11,5 @@
   
 # Frontend Project
   - run command npm install
-  - chnage url of api in environment folder.
+  - change url of api in environment folder.
   - run command ng serve --open
